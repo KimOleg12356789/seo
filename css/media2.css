@@ -1,0 +1,602 @@
+
+
+@media screen and (max-width: 1550px) {
+	.order_img {
+	    position: absolute;
+	    bottom: -73px;
+	    width: 783px;
+	    right: -78px;
+	}
+
+	.cases_border_content {
+	    width: 67%;
+	    padding: 36px 37px 0 35px;
+	}
+
+	.order_bg {
+	    padding: 67px 0 70px 0;
+	    background: #20113A url(../images/images/order2.png) 50% 0 no-repeat;
+	}
+
+	.art_block2 {
+	    width: 24.3%;
+	    padding: 0 0 0 30px;
+	    position: relative;
+	}
+
+	.art_block {
+	    padding: 0 30px 0 0;
+	    width: 75.7%;
+	}
+
+	.order_bg2 {
+	    padding: 67px 0 70px 0;
+	    background: #20113A url(../images/images/order3.png) 50% 0 no-repeat;
+	}
+
+	.order_bg3 {
+	    padding: 67px 0 70px 0;
+	    background: #20113A url(../images/order4.png) 34% 0 no-repeat;
+	}
+}
+
+
+@media screen and (max-width: 1400px) {
+	.blog_ul {
+		flex-wrap: wrap;
+		padding: 11px 0 0 0;
+	}
+
+	.blog-li {
+		padding: 9px 10px 0 0;
+	}
+}
+
+@media screen and (max-width: 1300px){
+	.order_img {
+	    position: absolute;
+	    bottom: -73px;
+	    width: 783px;
+	    right: -29px;
+	}
+
+	.tarifsmm_icon {
+	    position: relative;
+	    z-index: 1;
+	    margin: 0 -100px 0 0;
+	    width: 100px;
+	    height: 100px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    border-radius: 50%;
+	    border: 1px solid #5E149E;
+	    background: linear-gradient( -85.25deg, rgba(12, 6, 29, 0.5) 0%, rgba(12, 6, 29, 0.17) 100%);
+	    backdrop-filter: blur(6px);
+	}
+
+	.tarifsmm_pd {
+	    padding: 0 0 0 50px;
+	    width: 100%;
+	}
+}
+
+
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	.smm_head_block {
+		width: 100%;
+	  }
+	  
+	  .smm_head_block2 {
+		width: 100%;
+	  }
+
+	.order_img {
+	    position: absolute;
+	    bottom: -73px;
+	    width: 575px;
+	    right: -29px;
+	}
+}	
+
+
+@media screen and (max-width: 1050px) {
+	
+	.cases_border_content {
+	    width: 69%;
+	    padding: 29px 20px 0 28px;
+	}
+
+	.cases_img {
+	    margin: 0 -66px -3px -55px;
+	}
+
+	.cases_border_restagle {
+	    margin: 0 0 0 0;
+	    height: 1px;
+	    background: rgba(255, 255, 255, 0.1);
+	}
+
+	.order_img {
+		display: none;
+	}
+
+	.tarifsmm_border {
+		flex-wrap: wrap;
+	}
+
+	.tarifsmm_left {
+		width: 100%;
+		flex-wrap: wrap;
+	}
+
+	.tarifsmm_title {
+		width: 100%;
+	}
+
+	.tarifsmm_title br {
+		display: none;
+	}
+
+	.tarifsmm_restagle {
+		display: none;
+	}
+
+	.tarifsmm_suptitle {
+		width: 100%;
+		padding: 13px 0 0 0;
+	}
+
+	.tarifsmm_suptitle br {
+		display: none;
+	}
+
+	.tarifsmm_button {
+		width: 100%;
+		padding: 20px 0 0 0;
+	}
+
+	.tarifsmm_border {
+	    width: 100%;
+	    padding: 25px 46px 25px 85px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-between;
+	    border: 1px solid #8A14E6;
+	    border-radius: 22px;
+	    background: linear-gradient(336.91deg, rgba(129, 38, 200, 0) -74.44%, rgba(138, 20, 230, 0.0595) 88.43%);
+	}
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+	
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	
+}
+
+
+@media screen and (max-width: 900px) {
+	
+	.order {
+	    padding: 67px 0 70px 0;
+	    background: #20113A url(../images/images/order.png) 6% 0 no-repeat;
+	}
+
+	.stock_wrap {
+		flex-wrap: wrap;
+		margin: 15px 0 0 0;
+	}
+
+	.stock_block {
+		width: 100%;
+		padding: 20px 0 0 0;
+	}
+
+	.cases_border_content {
+	    width: 62%;
+	    padding: 29px 20px 0 28px;
+	}
+
+	.cases_border_suptitle br {
+		display: none;
+	}
+
+	.art_wrap {
+		flex-wrap: wrap;
+	}
+
+	.art_mb {
+		display: block;
+	}
+
+	.art_dk {
+		display: none;
+	}
+
+	.art_block {
+		padding: 20px 0 0 0;
+		width: 100%;
+		order: 2;
+	}
+
+	.art_block2 {
+		padding: 20px 0 24px 0;
+		width: 100%;
+		order: 1;
+	}
+
+	.art_restagle {
+	    position: absolute;
+	    height: 1px;
+	    width: 100%;
+	    left: 0;
+	    background: rgba(255, 255, 255, 0.1);
+	    bottom: 0;
+	}
+
+	.art_restagle2 {
+	    height: 5px;
+	    width: 188px;
+	    position: absolute;
+	    left: 0;
+	    bottom: -2px;
+	    background: #E63114;
+	    border-radius: 3px;
+	}
+
+	.art_mr {
+		margin: 0 -29px;
+	}
+
+	.art_naw {
+		display: flex;
+		overflow: auto;
+		padding: 0 29px !important;
+	}
+
+	.art_naw::-webkit-scrollbar {
+	  width: 0px;
+	  height: 0px;
+	}
+
+	.art_naw::-webkit-scrollbar-track {
+	  background: #f1f1f1;
+	}
+
+	.art_naw::-webkit-scrollbar-thumb {
+	  background: #555;
+	}
+
+	.art_naw::-webkit-scrollbar-thumb:hover {
+	  background: #333;
+	}
+
+	.art_naw_li {
+		display: block !important;
+		margin: 0 10px 0 0;
+	}
+
+	.art_naw_li a {
+		width: 217px;
+		text-align: center;
+		padding: 20px 40px;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.about_wrap {
+		margin: 16px 0 0 0;
+		flex-wrap: wrap;
+	}
+
+	.about_block {
+		width: 100%;
+		padding: 20px 0 0 0;
+	}
+
+	.our_clients_sl .slick-list {
+	    max-width: 670px !important;
+	    margin: 0 auto;
+	    padding: 0 0 0 0;
+	}
+
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+
+	.cases_border_info {
+	    margin: 0 30px 0 0;
+	    display: flex;
+	    align-items: center;
+	}
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.stock_wrap {
+		margin: 5px 0 0 0;
+	}
+
+	.stock_border {
+	    height: 100%;
+	    border: 1px solid #492C88;
+	    padding: 40px 18px;
+	    border-radius: 22px;
+	}
+
+	.stock_img_mr {
+	    margin: -40px 0 0 0;
+	}
+
+	.stock {
+	    padding: 18px 0 24px 0;
+	}
+
+	.order {
+	    padding: 25px 0 30px 0;
+	    background: #20113A url(../images/images/order.png) 6% 0 no-repeat;
+	}
+
+	.title_order {
+	    max-width: 519px;
+	    padding: 20px 0 0 0;
+	    font-size: 14px;
+	    line-height: 19px;
+	    color: #FFFFFF;
+	}
+
+	.order_input {
+	    padding: 13px 0 0 0;
+	}
+
+	.order_inner {
+	    display: flex;
+	    align-items: center;
+	    padding: 20px 0 0 0;
+	    flex-wrap: wrap;
+	}
+
+	.order_button {
+		width: 100%;
+		text-align: center;
+	}
+
+	.order_inner_title {
+		padding: 13px 0 0 0;
+		width: 100%;
+		text-align: center;
+	}
+
+	.blog-li_pd a {
+	    padding: 18px 24px;
+	}
+
+	.cases_border {
+		flex-wrap: wrap;
+	}
+
+	.cases_img_hidden {
+		width: 100%;
+	}
+
+	.cases_img {
+		margin: 0 0 -3px 0;
+	}
+
+	.cases_img img {
+		width: 100%;
+	}
+
+	.cases_border_content {
+		width: 100%;
+		padding: 20px 20px;
+	}
+
+	.cases_border_title {
+		text-align: center;
+	}
+
+	.cases_border_suptitle {
+		text-align: center;
+		padding: 15px 0 20px 0;
+	}
+
+	.cases_border_wrap {
+		padding: 12px 0 18px 0;
+	}
+
+	.cases_border_info {
+		margin: 0;
+		width: 50%;
+		flex-wrap: wrap;
+	}
+
+	.cases_border_number {
+		width: 100%;
+		text-align: center;
+	}
+
+	.cases_border_text {
+		margin: 4px 0 0 0;
+		width: 100%;
+		text-align: center;
+	}
+
+	.cases_border_inner {
+	    display: flex;
+	    align-items: center;
+	    padding: 12px 0 0 0;
+	} 
+
+	.cases_border_link {
+		margin: 0;
+		width: 50%;
+		text-align: center;
+	}
+
+	.art_pd {
+	    padding: 30px 0 0 0;
+	}
+	
+	.clients_button button {
+	    width: 100%;
+	    height: 94px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    background: rgba(21, 7, 45, 0.4);
+	    padding: 0 30px;
+	    border-radius: 15px;
+	}
+
+	.tarifsmm {
+		padding: 15px 0 0 0;
+		display: block;
+	}
+
+	.tarifsmm_icon {
+		margin: 0 auto -50px auto;
+	}
+
+	.tarifsmm_pd {
+	    padding: 0 0 0 0;
+	    width: 100%;
+	}
+
+	.tarifsmm_border {
+	    width: 100%;
+	    padding: 68px 30px 30px 30px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-between;
+	    border: 1px solid #8A14E6;
+	    border-radius: 22px;
+	    background: linear-gradient(336.91deg, rgba(129, 38, 200, 0) -74.44%, rgba(138, 20, 230, 0.0595) 88.43%);
+	}
+
+	.tarifsmm_title {
+		text-align: center;
+	}
+
+	.tarifsmm_suptitle {
+		text-align: center;
+	}
+
+	.tarifsmm_button {
+		text-align: center;
+	}
+
+
+	
+}
+
+@media screen and (max-width: 575px) {
+  	
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+	ul.tabs li {
+	    margin: 0 10px 0 0;
+	    cursor: pointer;
+	    padding: 0px 0 0 0;
+	    font-size: 13px;
+	    line-height: 17px;
+	    color: #D0C1E8;
+	    position: relative;
+	}
+
+	.title_br br {
+		display: none;
+	}
+
+	.art_top_block_mb {
+		display: none;
+	}
+
+	.art_block2 {
+		padding: 0 0 0 14px;
+		margin: 20px 0 0 0;
+	}
+
+	.art_mr {
+		position: relative;
+		margin: 0;
+	}
+
+	/*.art_mr:before {
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 59px;
+		bottom: 0;
+		left: 0;
+		background: linear-gradient(0deg, #301D4E 40%, rgba(48, 29, 78, 0) 110%);
+	}*/
+
+	.art_naw {
+		padding: 0 !important;
+		overflow: unset;
+		display: block;
+	}
+
+	.art_naw_li {
+		margin: 0 0 10px 0;
+	}
+
+	.art_naw_li a {
+		width: 100%;
+		padding: 15px 20px;
+	}
+
+	.art_restagle {
+	    position: absolute;
+	    height: 100%;
+	    width: 1px;
+	    left: 0;
+	    background: rgba(255, 255, 255, 0.1);
+	    bottom: 0;
+	}
+
+	.art_restagle2 {
+	    height: 83px;
+	    width: 5px;
+	    position: absolute;
+	    left: -2px;
+	    bottom: auto;
+	    top: 0;
+	    background: #E63114;
+	    border-radius: 3px;
+	}
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+	
+}
